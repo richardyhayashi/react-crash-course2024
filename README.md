@@ -52,6 +52,10 @@ or
 `   ...`
 `})`
 
+### Use Icons
+
+`$ npm i react-icons`
+
 ## YouTube
 
 By `Traversy Media`
@@ -71,8 +75,28 @@ By `Traversy Media`
 13. Boilerplate Cleanup
 14. Tailwind CSS Setup
 15. JSX Crash Course
-16.
-17.
-18.
-19.
-20.
+16. Start Homepage 
+17. Navbar Component
+18. Image Import
+19. Hero Component
+20. Props
+21. Default Props
+22. Wrapper Components
+23. JobListings Component
+24. Create Lists With map()
+25. Single JobListing Component
+26. Limit Jobs to 3
+27. useState() Hook & Desc Toggle
+28. Creating an Event
+29. Updating Component State
+30. React Icons Package
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
