@@ -70,7 +70,7 @@ By `Traversy Media`
 12. File Explanation
 13. Boilerplate Cleanup
 14. Tailwind CSS Setup
-15.
+15. JSX Crash Course
 16.
 17.
 18.
