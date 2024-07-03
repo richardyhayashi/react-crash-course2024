@@ -19,8 +19,8 @@ services:
       dockerfile: Dockerfile.dev
     #container_name: ${PROJECT_NAME}-dev_c
     restart: unless-stopped
-    ports:
-      - ${REACT_PORT_OUT}:${REACT_PORT}
+    #ports:
+    #  - ${REACT_PORT_OUT}:${REACT_PORT}
     volumes:
       - node_modules:/app/node_modules
       - ./src:/app
